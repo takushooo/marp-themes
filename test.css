@@ -1,0 +1,53 @@
+/* @theme test */
+@import 'default';
+section {
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 32px;
+    padding: 40px;
+}
+section.title {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+}
+section.title h1 {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+}
+section.slides {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 28px;
+}
+section.slides h1 {
+    background: linear-gradient( to left,  rgba(69,179,224,1) 25%, rgb(97, 109, 218) 75% );
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 36px;
+    position: absolute;
+    left: 50px; top: 50px;
+}
+section.slides h2 {
+    font-size: 32px;
+    color: #4ac;
+    position: absolute;
+    left: 50px; top: 90px;
+}
+section.slides_center {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 28px;
+    text-align: center;
+}
+section.slides_center h2 {
+    font-size: 32px;
+    color: #4ac;
+    position: absolute;
+    left: 50px; top: 90px;
+}
