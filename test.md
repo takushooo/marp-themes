@@ -1,8 +1,8 @@
 ---
 marp: true
 theme: test
-header: 'header text'
-footer: 'footer text @takushooo'
+header: 'marp templete'
+footer: '2021/02/22'
 size: 4:3
 page_number: true
 paginate: true
@@ -33,13 +33,12 @@ class: slides
 <!--
 _backgroundColor: black
 _color: white
-_footer: 'Photo by Michal Vasko　on Unsplash'
 -->
 
 ## 1. Marp for VS Codeとは
 
 - VS Codeの拡張機能
-  VS Code上でマークダウンからスライドが作れる
+  VS Code上でMarkdownからスライドを作成
 
 ---
 
@@ -68,6 +67,7 @@ _footer: 'Photo by Michal Vasko　on Unsplash'
 ---
 <!--
 _class: slides_center
+_footer: https://placehold.jp/400x400.png
 -->
 ## 4. 書式テンプレート
 画像の貼り方
@@ -107,13 +107,14 @@ leftで左寄せ
 縦並び
 ![bg fit vertical right](https://placehold.jp/400x400.png)
 ![bg fit vertical right](https://placehold.jp/400x400.png)
+![bg fit vertical right](https://placehold.jp/400x400.png)
 
 ---
 <!--
 画像を横に2枚並べたい時
 -->
 横並び
-![](https://placehold.jp/400x400.png) ![](https://placehold.jp/400x400.png)
+![](https://placehold.jp/400x400.png) ![](https://placehold.jp/400x400.png) 
 
 ---
 <!--
