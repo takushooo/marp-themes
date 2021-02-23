@@ -22,7 +22,7 @@ section.title h1 {
 section.slides {
     color: black;
     font-family: "Times New Roman", "Meiryo UI";
-    font-size: 28px;
+    font-size: 24px;
 }
 section.slides h1 {
     background: linear-gradient( to left,  rgba(69,179,224,1) 25%, rgb(97, 109, 218) 75% );
