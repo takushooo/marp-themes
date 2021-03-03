@@ -1,0 +1,69 @@
+/* @theme watalab */
+@import 'default';
+section {
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 32px;
+    padding: 40px;
+    background-image: url(./marp-themes/pic/logo.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+header {
+	width: 100%;
+    text-align: left;
+	color: #4ac;
+	background: linear-gradient(to right, #4ac 10%, #00000000 75%);
+}
+
+footer {
+	width: 100%;
+	background: linear-gradient(to left, #4ac 10%, #00000000 75%);
+	color: black;
+	text-align: left;
+	font-style: oblique;
+}
+
+section.title {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+}
+section.title h1 {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+}
+section.slides {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 24px;
+}
+section.slides h1 {
+    color: #4ac;
+    font-size: 36px;
+    position: absolute;
+    left: 50px; top: 50px;
+}
+section.slides h2 {
+    font-size: 32px;
+    color: #4ac;
+    position: absolute;
+    left: 50px; top: 90px;
+}
+section.slides_center {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 28px;
+    text-align: center;
+}
+section.slides_center h2 {
+    font-size: 32px;
+    color: #4ac;
+    position: absolute;
+    left: 50px; top: 90px;
+}
