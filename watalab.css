@@ -39,6 +39,13 @@ section.title h1 {
     text-align: center;
     padding: 40px;
 }
+section.title h2 {
+    color: black;
+    font-family: "Times New Roman", "Meiryo UI";
+    font-size: 32px;
+    text-align: center;
+}
+
 section.slides {
     color: black;
     font-family: "Times New Roman", "Meiryo UI";
